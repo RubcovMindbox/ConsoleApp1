@@ -13,5 +13,6 @@ namespace ConsoleApp1
     class People
     {
         public int Id { get; set; }
+        public int Id2 { get; set; }
     }
 }
