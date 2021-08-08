@@ -23,6 +23,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!7");
             Console.WriteLine("Hello World!7");
             Console.WriteLine("Hello World!7");
+            Console.WriteLine("Hello World!7");
+            Console.WriteLine("Hello World!7");
         }
     }
     class People
@@ -33,5 +35,11 @@ namespace ConsoleApp1
         public int Id4 { get; set; }
         public int Id5 { get; set; }
         public int Id6 { get; set; }
+
+        public void Test()
+        {
+            Console.WriteLine("Hello World!7");
+            Console.WriteLine("Hello World!7");
+        }
     }
 }
