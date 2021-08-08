@@ -12,4 +12,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!4");
         }
     }
+    class People
+    {
+        public int Id { get; set; }
+    }
 }
